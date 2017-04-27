@@ -23,3 +23,16 @@ Clone the git repo:
 Or checkout the [Tagged Release](https://github.com/DallOner/Phaser-Boilerplate/releases) you'd like to use.
 
 -->
+source: https://github.com/DallOner/Phaser-Boilerplate
+
+https://github.com/lukewilde/phaser-js-boilerplate
+
+https://github.com/goldfire/phaser-boilerplate
+
+https://phaser.io/news/2015/10/phaser-boilerplate
+
+http://www.html5gamedevs.com/topic/3494-my-phaser-boilerplate/
+
+http://www.html5gamedevs.com/topic/9690-list-of-phaser-templates-and-boilerplates/
+
+
